@@ -11,11 +11,15 @@
 
 <div style="display: inline_block"><br>
   <!-- Seus ícones de linguagens aqui -->
+<div>
+  <img align="center" alt="Mayke-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Mayke-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="display: inline-block;">
+  <img align="center" alt="Mayke-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="display: inline-block;">
+  <img align="center" alt="Mayke-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;">
+  <img align="center" alt="Mayke-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;">
+  <img align="center" alt="Mayke-SpringBoot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" style="display: inline-block;">
 </div>
-  
-##
 
-<div > 
   <!-- Seus ícones de re
 
 
