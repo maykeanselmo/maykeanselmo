@@ -18,6 +18,15 @@
   <img align="center" alt="Mayke-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;">
   <img align="center" alt="Mayke-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;">
   <img align="center" alt="Mayke-SpringBoot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" style="display: inline-block;">
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="display: inline-block;">
+  <img align="center" alt="RabbitMQ" height="30" width="40" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" style="display: inline-block;">
+  <img align="center" alt="Apache Kafka" height="30" width="40" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" style="display: inline-block;">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="display: inline-block;">
+  <img align="center" alt="H2" height="30" width="40" src="https://www.h2database.com/html/images/h2-logo-2.png" style="display: inline-block;">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="display: inline-block;">
+</div>
+
 </div>
 
   <!-- Seus ícones de re
