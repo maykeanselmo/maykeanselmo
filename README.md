@@ -28,10 +28,15 @@
 
 ### 🛠️ Habilidades Técnicas
 
-- **Linguagens:** Java, TypeScript, JavaScript  
-- **Frameworks:** Spring Boot, React  
+- **Linguagens:** Java, TypeScript, JavaScript
+- **Banco de dados:** Relacionais e não relacionais 
+- **Frameworks e bibliotecas:** Spring Boot, React  
 - **Infraestrutura:** Docker, Kubernetes, AWS  
-- **Mensageria:** RabbitMQ, Kafka  
+- **Mensageria:** RabbitMQ, Kafka
+- **Testes:** Unitários e integração
+- **Orientação a Objetos**
+- **Arquitetura de Microsserviços**
+- **Documentação:** Swagger   
 - **Outras:** Clean Code, SOLID, Design Patterns  
 
 ---
@@ -48,14 +53,43 @@
 ### 🖥️ Ferramentas e Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring logo" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="RabbitMQ logo" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="Kafka logo" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker logo" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript logo" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+</div>
+
+###
+
+---
+
+
+### 🏆 Certificações
+
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" width="100">
+  <a href="https://www.credly.com/badges/2becf92f-c00a-4551-aa63-dda5ca3929a4/linked_in_profile" target="_blank">
+    <p><strong>AWS Certified Cloud Practitioner</strong></p>
+  </a>
+  <p>Emitido por: Amazon Web Services (AWS)</p>
+  <p>📅 Data de Certificação: [04/2024]</p>
 </div>
 
 ---
@@ -69,3 +103,9 @@
 ---
 
 Obrigado por visitar meu perfil! 😄
+
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzB0NWQ1NjRmdjZ6OWFjeWhuM3ZzM24waWpodTN5dml4d2k2ZXg5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Welcome GIF" width="400" >
+</div>
+
+
