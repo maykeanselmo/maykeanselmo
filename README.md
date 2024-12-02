@@ -1,53 +1,71 @@
-#### Olá mundo! Eu sou o Mayke Anselmo
-
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=maykeanselmo&show_icons=true&theme=dark" alt="Mayke's GitHub stats">
-  </div>
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykeanselmo&layout=compact&theme=dark" alt="Top Langs">
-  </div>
+<div align="center">
+  <h2>👋 Bem-vindo ao meu perfil!</h2>
+  <img src="https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif" alt="Welcome GIF" width="700" >
 </div>
 
-<div style="display: inline_block"><br>
-  <!-- Seus ícones de linguagens aqui -->
-<div>
-  <img align="center" alt="Mayke-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;">
-   <img align="center" alt="Mayke-SpringBoot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" style="display: inline-block;">
-   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="display: inline-block;">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" style="display: inline-block;">
-   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="display: inline-block;">
-  <img align="center" alt="RabbitMQ" height="30" width="40" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" style="display: inline-block;">
-  <img align="center" alt="Apache Kafka" height="30" width="40" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" style="display: inline-block;">
-  <img align="center" alt="H2" height="30" width="40" src="https://www.h2database.com/html/images/h2-logo-2.png" style="display: inline-block;">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="display: inline-block;">
-  <img align="center" alt="Mayke-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mayke-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="display: inline-block;">
-  <img align="center" alt="Mayke-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="display: inline-block;">
-  <img align="center" alt="Mayke-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;">
-  
 
-    
-</div>
+🎯 Desenvolvedor Backend especializado em Java, Spring Boot, e soluções baseadas em nuvem.  
+🚀 Apaixonado por tecnologia, aprendizado contínuo, arquitetura de software e criação de sistemas escaláveis e eficientes.  
 
-</div>
+---
 
-  <!-- Seus ícones de re
+### 🌐 Vamos nos conectar!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayke-anselmo-766301269/)
+[![Portfolio](https://img.shields.io/badge/Portfólio-orange?style=for-the-badge&logo=firefox&logoColor=white)](https://seuportfolio.com)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayke.rpmg@gmail.com)
 
+---
+<!-- 
+### 🚀 Projetos em Destaque
 
+- [📦 **InventoryManager**](https://github.com/maykeanselmo/InventoryManager): Sistema para gerenciamento de estoque em C.  
+- [🌐 **GameCatalog**](https://github.com/maykeanselmo/GameCatalog): Plataforma para organização e compartilhamento de coleções de jogos.  
+- [☁️ **Gateway API**](https://github.com/maykeanselmo/GatewayAPI): API em Spring Boot integrando serviços externos.  
 
-<!--
-**maykeanselmo/maykeanselmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 -->
+
+### 🛠️ Habilidades Técnicas
+
+- **Linguagens:** Java, TypeScript, JavaScript  
+- **Frameworks:** Spring Boot, React  
+- **Infraestrutura:** Docker, Kubernetes, AWS  
+- **Mensageria:** RabbitMQ, Kafka  
+- **Outras:** Clean Code, SOLID, Design Patterns  
+
+---
+
+### 📈 Minhas Estatísticas no GitHub
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=maykeanselmo&show_icons=true&theme=dark" alt="Mayke's GitHub stats" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykeanselmo&layout=compact&theme=dark" alt="Top Langs" width="45%">
+</div>
+
+---
+
+### 🖥️ Ferramentas e Tecnologias
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring logo" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="RabbitMQ logo" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="Kafka logo" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker logo" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React logo" />
+</div>
+
+---
+
+### Sobre Mim
+
+- 🎮 Amante de games, especialmente RPGs e aventuras.  
+- ☕ Sempre explorando novos sabores de café enquanto programo.  
+- 🏀 Nas horas vagas, jogo basquete para relaxar.
+
+---
+
+Obrigado por visitar meu perfil! 😄
