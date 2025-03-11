@@ -74,7 +74,10 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://www.technotification.com/wp-content/uploads/2017/06/meteorjs.png" height="40" alt="meteor logo"  />
 </div>
+
 
 ###
 
