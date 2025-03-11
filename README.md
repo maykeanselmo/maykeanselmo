@@ -30,7 +30,7 @@
 
 - **Linguagens:** Java, TypeScript, JavaScript
 - **Banco de dados:** Relacionais e não relacionais 
-- **Frameworks e bibliotecas:** Spring Boot, React  
+- **Frameworks e bibliotecas:** Spring Boot, React, Meteor 
 - **Infraestrutura:** Docker, Kubernetes, AWS  
 - **Mensageria:** RabbitMQ, Kafka
 - **Testes:** Unitários e integração
