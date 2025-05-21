@@ -97,13 +97,6 @@
 
 ---
 
-### Sobre Mim
-
-- 🎮 Amante de games, especialmente RPGs e aventuras.  
-- ☕ Sempre explorando novos sabores de café enquanto programo.  
-- 🏀 Nas horas vagas, jogo basquete para relaxar.
-
----
 
 Obrigado por visitar meu perfil! 😄
 
